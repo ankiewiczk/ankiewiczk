@@ -1,0 +1,7 @@
+/* make website darkmode by default */
+body { color:white;
+       background-color:black;  }
+/*Hide profile photo by default in mobile*/
+.hide { display:none;}
+
+.profile {width:225px;height:300px;}
